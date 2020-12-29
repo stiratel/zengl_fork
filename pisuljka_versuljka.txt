@@ -1,5 +1,5 @@
 
 $KOMMEHTARIJ_FAILA='кодировка этого файла UTF-8 При коммите текущий номер версии увеличивается на 1.'
-$NOMER_VERSII='1'
-$KOMMEHTARIJ_K_VERSII='Начало!'
+$NOMER_VERSII='2'
+$KOMMEHTARIJ_K_VERSII='Обычная рабочая версия.'
 
